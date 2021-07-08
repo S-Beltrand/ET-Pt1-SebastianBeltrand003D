@@ -1,0 +1,9 @@
+Script para oracle:
+create user c##exp4 identified by experiencia4;
+grant connect, resource to c##exp4;
+alter user c##exp4 default tablespace users quota unlimited on users;
+
+
+datos admin:
+user:GroundZero
+contra:Ground1234
